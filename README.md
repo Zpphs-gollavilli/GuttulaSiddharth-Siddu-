@@ -1,11 +1,10 @@
-<!--Created and organized by Bala Karthikeya-->
-<!--Reach me out on LinkedIn (alurubalakarthikeya) to get your free README for github!!-->
-<div align="center">
-  <img src="https://64.media.tumblr.com/0c9ea04b5af5e977328e63b59f26c910/c5955a927d5a21e3-c9/s1920x498/e5223e94c0c01718bee75be4bb419b7a6929315f.gif">
-</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
+    <img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=44F89A&center=true&vCenter=true&height=40&lines=Hola%2C+I'm+Siddharth+!!;A+7th+Class+Student;Frontend+%26+3D+Developer;Passionate+UI%2FUX+Designer;Learning+Full+Stack+Development" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <hr height="1px"/>
 
