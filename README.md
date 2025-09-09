@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="100%" alt="banner"/>
+</div>
+
 
 <div align="center">
   <!-- 🌍 Earth Animation -->
