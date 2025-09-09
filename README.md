@@ -1,11 +1,11 @@
 
 <div align="center">
   <!-- 🌍 Earth Animation -->
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" height="250" alt="Earth Animation"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" height="180" alt="Earth Animation"/>
 
   <!-- ✍ Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cutive&size=25&duration=2000&pause=1000&color=2EFEF7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hola%2C+I'm+Siddharth+!!;7th+Class+Student+at+ZPHS+Gollavilli;Frontend+%26+3D+Developer;Passionate+UI%2FUX+Designer;Learning+Full+Stack+Development" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Cutive&size=28&duration=2000&pause=1000&color=2EFEF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hola%2C+I'm+Siddharth+!!;7th+Class+Student+at+ZPHS+Gollavilli;Frontend+and+3D+Developer;Passionate+UI%2FUX+Designer;Learning+Full+Stack+Development" alt="Typing SVG"/>
   </a>
 </div>
 
